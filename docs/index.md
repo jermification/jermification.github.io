@@ -1,6 +1,6 @@
 ---
 title: Home
-description: "A complete guide to ___ and ___."
+description: " A never-finished iOS Sideloading guide."
 home: true
 actions:
   - text: Get Started
