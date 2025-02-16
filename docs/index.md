@@ -11,9 +11,23 @@ heroFilter: 0.5
 ---
 
 ::: tip
-For complete guides to homebrew and custom firmware for other devices, check out [CFW.Guide](https://cfw.guide).
+
+For the official guide, which i took this format from, check out [ios.cfw.guide](https://ios.cfw.guide).
+
 :::
 
 ::: tip
+
 Thoroughly read all of the introductory pages (including this one!) before proceeding.
-:::
+
+
+## What is Sideloading?
+
+Sideloading is a term used to describe the process that allows you to install any iOS app, not on the app store. In this case it will be used to install FNaF World.
+
+
+## What should I know before starting?
+
+
+- It is WAY easier to sideload while having a computer, but if you don't, it is still possible.
+- Follow the guide carefully.
