@@ -4,7 +4,7 @@ description: "A complete guide to ___ and ___."
 home: true
 actions:
   - text: Get Started
-    link: page-one
+    link: get-started
     type: secondary
 heroImage: /assets/images/splash-image.png
 heroFilter: 0.5
