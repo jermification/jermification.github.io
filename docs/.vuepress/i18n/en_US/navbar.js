@@ -17,7 +17,7 @@ module.exports = [
       '/troubleshooting',
       {
         text: 'Discord',
-        link: 'https://discord.gg/',
+        link: 'https://discord.gg/b4nkySvb7R',
       },
     ],
   },
@@ -28,7 +28,7 @@ module.exports = [
       '/credits',
       {
         text: 'Source',
-        link: 'https://github.com/cfw-guide/example.cfw.guide/',
+        link: 'https://github.com/jermification/jermification.github.io/',
       },
       '/site-navigation/',
     ],
