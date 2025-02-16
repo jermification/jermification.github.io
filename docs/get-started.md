@@ -2,7 +2,7 @@
 lang: en_US
 title: Installing Dopamine
 description: Guide to installing Dopamine using TrollStore
-permalink: /getting-started
+permalink: /get-started
 pkgman: sileo
 redirect_from:
   - dgdsf
