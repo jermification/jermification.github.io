@@ -2,9 +2,9 @@ module.exports = {
   search: 'Search',
   
   locales: {
-    lang: 'en-US',
-    title: '___ Guide',
-    description: 'A complete guide to ___ and ___.',
+    lang: 'en_US',
+    title: 'Sideloading Guide',
+    description: 'A never-finished iOS Sideloading guide.',
   },
   
   themeConfig: {
@@ -17,8 +17,8 @@ module.exports = {
   	selectLanguageAriaLabel: "Select language",
   	toggleDarkMode: "Toggle dark mode",
   	toggleSidebar: "Toggle sidebar",
-        
-    discordNoticeText: "If you need further help, ask on the [Discord Server](https://discord.gg/) for assistance.",
+    
+    discordNoticeText: "For support in English, ask for help on the FNaF World Modding [Discord Server](https://discord.gg/b4nkySvb7R).",
     repoLabel: '<i class="fab fa-github"></i>',
       
     navbar: require('./navbar'),
