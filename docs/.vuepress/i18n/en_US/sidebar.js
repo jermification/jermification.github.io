@@ -5,7 +5,7 @@ const support = {
     '/faq',
     {
       text: 'Discord',
-      link: 'https://discord.gg/'
+      link: 'https://discord.gg/b4nkySvb7R'
     }
   ],
 }
@@ -22,7 +22,7 @@ const site = {
 module.exports = {
   '/': [
     {
-      text: '___ Guide',
+      text: 'Sideloading Guide',
       children: [
         '/page-one',
         '/page-two',
