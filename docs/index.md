@@ -4,7 +4,7 @@ description: " A never-finished iOS Sideloading guide."
 home: true
 actions:
   - text: Get Started
-    link: get-started
+    link: firmware-selection.html
     type: secondary
 heroImage: /assets/images/splash-image.png
 heroFilter: 0.5
@@ -30,4 +30,3 @@ Sideloading is a term used to describe the process that allows you to install an
 
 
 - It is WAY easier to sideload while having a computer, but if you don't, it is still possible.
-- Follow the guide carefully.
