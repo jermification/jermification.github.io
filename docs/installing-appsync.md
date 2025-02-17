@@ -1,6 +1,6 @@
 ---
 lang: en_US
-title: "Installing Scarlet"
+title: "Installing AppSync"
 description: Tutorial to install AppSync on most iOS devices.
 permalink: /installing-appsync
 ---
