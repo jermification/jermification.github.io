@@ -89,21 +89,9 @@ Select the appropriate page for your version from the chart below. Note that the
       <td style="text-align: center;">-</td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">16.0 beta 4</td>
-      <td style="text-align: center; font-weight: bold;">16.6.1</td>
-      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
-      <td style="text-align: center;">-</td>
-    </tr>
-    <tr>
       <td style="text-align: center; font-weight: bold;">-</td>
       <td style="text-align: center; font-weight: bold;">-</td>
       <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
-      <td style="text-align: center;">-</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">-</td>
-      <td style="text-align: center; font-weight: bold;">-</td>
-      <td style="text-align: center;">-</td>
       <td style="text-align: center;">-</td>
     </tr>
     <tr>
@@ -113,7 +101,19 @@ Select the appropriate page for your version from the chart below. Note that the
       <td style="text-align: center;">-</td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">-/td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;">-</td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
       <td style="text-align: center; font-weight: bold;">-</td>
       <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
       <td style="text-align: center;">-</td>
