@@ -4,7 +4,7 @@ module.exports = {
   locales: {
     lang: 'en_US',
     title: 'Sideloading Guide',
-    description: 'A never-finished iOS Sideloading guide.',
+    description: 'A semi-finished iOS Sideloading guide.',
   },
   
   themeConfig: {
