@@ -18,8 +18,9 @@ For support in English, ask for help on the FNaF World Modding [Discord Server](
 
 :::
 
-:::
+
 Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 15.0 to 16.6.1" row includes version 15.0, version 16.6.1, and all versions in-between.
+
 
 ---
 
@@ -33,7 +34,7 @@ Select the appropriate page for your version from the chart below. Note that the
     <tr>
       <th style="text-align: center; font-weight: bold;">From</th>
       <th style="text-align: center; font-weight: bold;">To</th>
-      <th style="text-align: center; font-weight: bold;">arm64</th>
+      <th style="text-align: center; font-weight: bold;">Tools</th>
     </tr>
   </thead>
   <tbody>
