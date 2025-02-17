@@ -12,8 +12,9 @@ heroFilter: 0.5
 
 ::: tip
 
-For the official guide, which i took this format from, check out [ios.cfw.guide](https://ios.cfw.guide).
 
+For the official guide, which i took this format from, check out [ios.cfw.guide](https://ios.cfw.guide).
+:::
 
 ## What is Sideloading?
 
