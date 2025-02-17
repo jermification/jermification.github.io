@@ -6,15 +6,15 @@ description: The writers and contributors to example.cfw.guide.
 <div>
   <div class="credits">
     <div class="user">
-      <img src="https://github.com/emiyl.png">
+      <img src="https://github.com/jermification.png">
     </div>
     <div class="user">
-      <h3>emiyl</h3>
-      <p>Emma</p>
-      <a class="social-icon" href="https://twitter.com/emiyl0" target="_blank">
-        <i class="fab fa-twitter"></i>
+      <h3>jermified</h3>
+      <p>jerm</p>
+      <a class="social-icon" href="https://discord.com/users/614629735145930768" target="_blank">
+        <i class="fab fa-discord"></i>
       </a>
-      <a class="social-icon" href="https://github.com/emiyl" target="_blank">
+      <a class="social-icon" href="https://github.com/jermification" target="_blank">
         <i class="fab fa-github"></i>
       </a>
     </div>
@@ -24,7 +24,6 @@ description: The writers and contributors to example.cfw.guide.
 ## Credits
 
 <pre>
-    + emiyl
+    + emiyl (created the example guide)
 </pre>
 
-If I forgot you here, contact me and I'll add your name.
