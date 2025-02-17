@@ -3,7 +3,7 @@ lang: en_US
 title: Firmware Selection
 description: 
 permalink: /firmware-selection
-sidebar: false
+sidebar: true
 home: false
 hero: false
 redirect_from:
