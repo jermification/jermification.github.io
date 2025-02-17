@@ -3,14 +3,14 @@ lang: en_US
 title: Firmware Selection
 description: 
 permalink: /firmware-selection
-sidebar: false
+sidebar: true
 home: true
 hero: false
 redirect_from:
   - /f-s
 ---
 
-# Installing TrollStore
+# Firmware Selection
 
 ::: tip
 
@@ -18,21 +18,8 @@ For support in English, ask for help on the FNaF World Modding [Discord Server](
 
 :::
 
-::: danger
-
-TrollStore is **not** a jailbreak.
-
 :::
-
-TrollStore is a utility which is able to permanently sign and install any application with almost any entitlement with the help of a CoreTrust bug. The latest releases of TrollStore (specifically 2.0 and later) work through the use of a CoreTrust bug in which code signatures are not correctly verified under certain circumstances.
-
-Installing TrollStore is a process which varies depending on what device and iOS you are running, as a result, different guides are attached below depending on said combination
-
-::: danger
-
-If your device is on iOS 14.0 *beta 1* or earlier, is running iOS 16.7.x (excluding 16.7 RC (20H18)), or is running iOS 17.0.1 or newer, it will **never** be supported by TrollStore.
-
-:::
+Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 15.0 to 16.6.1" row includes version 15.0, version 16.6.1, and all versions in-between.
 
 ---
 
