@@ -13,6 +13,8 @@ It is HIGHLY recommended to use TrollStore on versions 14.0b2 - 16.6.1, and 17.0
 
 There are many places to get Certificates from, but the most recommended one is [KravaSign](https://kravasign.com/purchase) due to the cheap price.
 
+
+## Using the Certificate
 ::: danger
 
 If you are using an iOS 16+ Device, you will need to take extra steps beforehand to open sideloaded apps:
@@ -24,8 +26,6 @@ If you are using an iOS 16+ Device, you will need to take extra steps beforehand
   - If you have a passcode enabled, you'll need to enter it.
 
 :::
-
-## Using the Certificate
 
 After you get your Certificate, you should have a zip file with the files ending with ".p12" and ".mobileprovision"
 
