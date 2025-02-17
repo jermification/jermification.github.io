@@ -1,6 +1,6 @@
 ---
 title: Home
-description: " A never-finished iOS Sideloading guide."
+description: " A semi-finished iOS Sideloading guide."
 home: true
 actions:
   - text: Get Started
