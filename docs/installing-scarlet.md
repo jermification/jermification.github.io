@@ -10,7 +10,8 @@ permalink: /installing-scarlet
 Using Scarlet is a risky idea.
 1. Scarlet uses private certs, which could blacklist your Device from using actual certs in the future. 
 2. Scarlet revokes often, which means you will have to restart this guide every time it revokes.
-Continue following this guide if you understand the risks.
+
+**Continue following this guide if you understand the risks.**
 
 
 :::
