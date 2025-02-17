@@ -34,16 +34,6 @@ module.exports = {
     support,
     site,
   ],
-  
-  '/alternate/': [
-    {
-      text: '___ Guide',
-      children: [
-        '/alternate/page-one',
-        '/alternate/page-two'
-      ],
-    },
-    support,
-    site,
+
   ]
 }
