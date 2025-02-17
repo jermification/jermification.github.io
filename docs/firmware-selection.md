@@ -10,8 +10,9 @@ redirect_from:
   - /f-s
 ---
 
+::: tip
+For support in English, ask for help on the FNaF World Modding [Discord Server](https://discord.gg/b4nkySvb7R).
 :::
-
 
 Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 15.0 to 16.6.1" row includes version 15.0, version 16.6.1, and all versions in-between.
 
