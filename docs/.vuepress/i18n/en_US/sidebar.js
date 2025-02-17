@@ -24,8 +24,8 @@ module.exports = {
     {
       text: 'Sideloading Guide',
       children: [
-        '/page-one',
-        '/page-two',
+        '/firmware-selection',
+        '/installing-scarlet',
       ],
     },
     support,
