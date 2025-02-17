@@ -7,7 +7,9 @@ description: Answers to commonly asked questions about Sideloading.
 
 ### How can i sideload without a Computer?
 
-Scarlet and TrollStore (installation with TrollInstallerX + jailbreaks.app) are the only ways how, and Scarlet gets revoked REALLY often. Scarlet is not recommended either, but most times it is your only choice.
+Scarlet, TrollStore (installation with TrollInstallerX + jailbreaks.app) and using a paid Certificate, are the only ways how, and Scarlet gets revoked REALLY often.
+
+Certificates are the easiest option if your iOS version does not support TrollStore. If you cannot afford them, Scarlet is your only option.
 
 ### Why isn't AltStore/SideStore here?
 
