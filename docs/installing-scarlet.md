@@ -4,4 +4,25 @@ title: "Installing Scarlet"
 description: Tutorial to install Scarlet on most iOS devices.
 permalink: /installing-scarlet
 ---
-Not Complete
+
+::: danger
+
+Using Scarlet is a risky idea.
+1. Scarlet uses private certs, which could blacklist your Device from using actual certs in the future. 
+2. Scarlet revokes often, which means you will have to restart this guide every time it revokes.
+Continue following this guide if you understand the risks.
+
+
+:::
+
+::: tip
+
+If you are using an iOS 16+ Device, you will need to take extra steps beforehand to open sideloaded apps:
+
+1. Open Settings
+1. Go to Privacy & Security and find the `Developer Mode` entry
+1. Toggle Developer Mode on, then press `Reboot`
+1. After the device reboots, unlock it, and confirm that you want to enable Developer Mode
+  - If you have a passcode enabled, you'll need to enter it.
+
+:::
