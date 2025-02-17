@@ -1,5 +1,5 @@
 ## placeholder
-A never-finished iOS Sideloading guide. (For FNaF World Modding)
+A semi-finished iOS Sideloading guide. (For FNaF World Modding)
 
 https://jermification.github.io/
 
