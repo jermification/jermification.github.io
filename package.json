@@ -1,9 +1,9 @@
 {
-    "name": "example.cfw.guide",
+    "name": "jermification.github.io",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "github.com/cfw-guide/example.cfw.guide",
-    "author": "emiyl <me@emiyl.com>",
+    "repository": "github.com//jermification/jermification.github.io/",
+    "author": "jermified <jermifiable@gmail.com>",
     "license": "MIT",
     "devDependencies": {
         "@vuepress/plugin-register-components": "2.0.0-beta.49",
