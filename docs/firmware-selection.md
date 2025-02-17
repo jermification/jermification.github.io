@@ -25,8 +25,8 @@ Select the appropriate page for your version from the chart below. Note that the
     <tr>
       <th style="text-align: center; font-weight: bold;">From</th>
       <th style="text-align: center; font-weight: bold;">To</th>
-      <th style="text-align: center; font-weight: bold;">Tool 1</th>
-      <th style="text-align: center; font-weight: bold;">Tool 2</th>
+      <th style="text-align: center; font-weight: bold;">Free</th>
+      <th style="text-align: center; font-weight: bold;">Paid</th>
     </tr>
   </thead>
   <tbody>
