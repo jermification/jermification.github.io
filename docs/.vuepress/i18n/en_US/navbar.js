@@ -7,20 +7,20 @@ module.exports = [
         link: '/firmware-selection/',
       },
       {
-        text: 'Scarlet',
+        text: 'Installing Scarlet',
         link: '/installing-scarlet/',
       },
       {
-        text: 'Certificates',
+        text: 'Using Certificates',
         link: '/using-certs/',
       },
       {
-        text: 'Placeholder',
-        link: '/god-knows/',
+        text: 'Installing Sideloadly',
+        link: '/installing-sideloadly/',
       },
       {
-        text: 'Placeholder2',
-        link: '/where-it-is/',
+        text: 'Using TrollStore',
+        link: '/using-trollstore/',
       },
     ],
   },
