@@ -4,7 +4,7 @@ module.exports = [
  children: [
       {
         text: 'Firmware Selection',
-        link: '/saving-blobs/',
+        link: '/firmware-selection/',
       },
       {
         text: 'Scarlet',
