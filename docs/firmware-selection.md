@@ -33,8 +33,8 @@ Select the appropriate page for your version from the chart below. Note that the
     <tr>
       <td style="text-align: center; font-weight: bold;">12.0</td>
       <td style="text-align: center; font-weight: bold;">13.7</td>
-      <td style="text-align: center;"><router-link to="https://ios.cfw.guide/installing-trollstore/">Jailbreaking + AppSync</router-link></td>
-      <td style="text-align: center;">Unsupported</td>
+      <td style="text-align: center;"><router-link to="/installing-appsync">AppSync</router-link></td>
+      <td style="text-align: center;"><router-link to="/sideloading-certs">Certificates (7-20$)</router-link</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">14.0b1</td>
