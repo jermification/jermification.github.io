@@ -15,7 +15,7 @@ Follow the guide on [ios.cfw.guide](https://ios.cfw.guide/installing-trollstore)
 2. After you have installed TrollStore, open the app.
 3. Press the + button at the top right.
 4. Select the IPA you just downloaded.
-5. Install it.
-
+5. Press Install.
+6. If the app doesnt show up, or doesnt have an icon, go into TrollStore settings and select "Rebuild Icon Cache"
 
 this really didnt need a guide.. 
