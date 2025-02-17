@@ -25,5 +25,6 @@ description: The writers and contributors to the Sideloading guide.
 
 <pre>
     + emiyl (created the example guide)
+    + dontfwthehoes
 </pre>
 
