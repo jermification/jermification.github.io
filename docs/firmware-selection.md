@@ -24,6 +24,7 @@ Select the appropriate page for your version from the chart below. Note that the
 
 ---
 
+<div style="display: flex; justify-content: center;">
 <table>
   <colgroup>
     <col span="1" style="width: 25%;">
@@ -39,7 +40,8 @@ Select the appropriate page for your version from the chart below. Note that the
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; font-weight: bold;" colspan="2">14.0 beta 1 and earlier</td>
+      <td style="text-align: center; font-weight: bold;">14.0 beta 1</td>
+      <td style="text-align: center; font-weight: bold;">Earlier</td>
       <td style="text-align: center;">Unsupported</td>
     </tr>
     <tr>
@@ -108,8 +110,10 @@ Select the appropriate page for your version from the chart below. Note that the
       <td style="text-align: center;"><router-link to="/installing-trollstore-trollrestore">TrollRestore</router-link></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;" colspan="2">17.0.1 and later</td>
+      <td style="text-align: center; font-weight: bold;">17.0.1</td>
+      <td style="text-align: center; font-weight: bold;">Later</td>
       <td style="text-align: center;">Unsupported</td>
     </tr>
   </tbody>
 </table>
+</div>
