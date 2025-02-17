@@ -6,9 +6,6 @@ permalink: /installing-sideloadly
 extra_contributors:
   - ios.cfw.guide team (robbed directly from them)
 ---
-## Required Reading
-
-Semi-untethered jailbreaks require the use of a sideloaded app to jailbreak. Apps sideloaded with a regular Apple ID will expire after 7 days (or 365 days with a Developer Apple ID). After that period, you will no longer be able to open that app to re-jailbreak.
 
 ::: danger
 
