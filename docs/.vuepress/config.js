@@ -9,7 +9,7 @@ module.exports = {
   locales: locales,
   
   theme: localTheme({
-    repo: 'cfw-guide/example.cfw.guide',
+    repo: 'jermification/jermification.github.io',
     selectLanguageText: '<i class="fas fa-globe"></i>',
     locales: themeConfigLocales,
     adUnits: [
