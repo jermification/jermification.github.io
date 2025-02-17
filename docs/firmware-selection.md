@@ -51,6 +51,7 @@ Select the appropriate page for your version from the chart below. Note that the
       <td style="text-align: center;"><router-link to="/using-certs">Certificates (7-20$)</router-link></td>
     </tr>
     <tr>
+ <tr>
   </tbody>
 </table>
 </div>
