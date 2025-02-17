@@ -45,7 +45,7 @@ Select the appropriate page for your version from the chart below. Note that the
     <tr>
       <td style="text-align: center; font-weight: bold;">16.7</td>
       <td style="text-align: center; font-weight: bold;">16.7.10/17.0.1+</td>
-      <td style="text-align: center;"><router-link to="/installing-scarlet">Scarlet</router-link></td>
+      <td style="text-align: center;"><router-link to="/installing-scarlet">Scarlet</router-link> / <router-link to="/installing-sideloadly">Sideloadly</router-link></td></td>
       <td style="text-align: center;"><router-link to="/sideloading-certs">Certificates (7-20$)</router-link></td>
     </tr>
     <tr>
