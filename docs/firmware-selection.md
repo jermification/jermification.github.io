@@ -51,7 +51,77 @@ Select the appropriate page for your version from the chart below. Note that the
       <td style="text-align: center;"><router-link to="/using-certs">Certificates (7-20$)</router-link></td>
     </tr>
     <tr>
- <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;">-</td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;"><router-link to="/placeholder">-</router-link></td>
+      <td style="text-align: center;">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center; font-weight: bold;">-</td>
+      <td style="text-align: center;">-</td>
+      <td style="text-align: center;">-</td>
+    </tr>
   </tbody>
 </table>
 </div>
