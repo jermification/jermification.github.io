@@ -1,4 +1,4 @@
 ---
 title: "FAQ"
-description: Answers to commonly asked questions about ___.
+description: Answers to commonly asked questions about Sideloading.
 ---
