@@ -4,3 +4,4 @@ title: "Installing Scarlet"
 description: Tutorial to install Scarlet on most iOS devices.
 permalink: /installing-scarlet
 ---
+Not Complete
