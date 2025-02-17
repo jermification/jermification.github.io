@@ -1,12 +1,26 @@
 module.exports = [
   {
     text: 'Guides',
-    children: [
-      '/page-one',
-      '/page-two',
+ children: [
       {
-        text: 'Page three',
-        link: '/page-three',
+        text: 'Firmware Selection',
+        link: '/saving-blobs/',
+      },
+      {
+        text: 'Scarlet',
+        link: '/installing-scarlet/',
+      },
+      {
+        text: 'Certificates',
+        link: '/using-certs/',
+      },
+      {
+        text: 'Placeholder',
+        link: '/god-knows/',
+      },
+      {
+        text: 'Placeholder2',
+        link: '/where-it-is/',
       },
     ],
   },
