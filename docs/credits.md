@@ -25,6 +25,7 @@ description: The writers and contributors to the Sideloading guide.
 
 <pre>
     + emiyl (created the example guide)
+    + ios.cfw.guide team (copyed ALOT of stuff)
     + dontfwthehoes
 </pre>
 
