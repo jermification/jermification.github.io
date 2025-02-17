@@ -9,7 +9,7 @@ extra_contributors:
 
 ::: danger
 
-If you are using an iOS 16 beta, you will need to take extra steps beforehand to open sideloaded apps:
+If you are using an iOS 16+ Device, you will need to take extra steps beforehand to open sideloaded apps:
 
 1. Open Settings
 1. Go to Privacy & Security and find the `Developer Mode` entry
