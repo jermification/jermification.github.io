@@ -26,6 +26,9 @@ module.exports = {
       children: [
         '/firmware-selection',
         '/installing-scarlet',
+        '/installing-sideloadly',
+        '/using-trollstore',
+        '/using-certs',
       ],
     },
     support,
