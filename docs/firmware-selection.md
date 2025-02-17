@@ -10,12 +10,6 @@ redirect_from:
   - /f-s
 ---
 
-# Firmware Selection
-
-::: tip
-
-For support in English, ask for help on the FNaF World Modding [Discord Server](https://discord.gg/b4nkySvb7R).
-
 :::
 
 
