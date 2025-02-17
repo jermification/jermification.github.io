@@ -11,7 +11,7 @@ hero: false
 To check your iOS Version, go into Settings > General > About > iOS Version
 
 :::
-Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 12.0 to 14.0b1" row includes version 12.0, version 14.0b1, and all versions in-between.
+Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 12.0 to 14.0b1" row includes version 12.0, version 14.0 beta 1, and all versions in-between.
 
 ---
 
