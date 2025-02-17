@@ -39,7 +39,7 @@ Select the appropriate page for your version from the chart below. Note that the
     <tr>
       <td style="text-align: center; font-weight: bold;">14.0b1</td>
       <td style="text-align: center; font-weight: bold;">16.6.1/17.0</td>
-      <td style="text-align: center;"><link to="https://ios.cfw.guide/installing-trollstore">TrollStore</router-link></td>
+      <td style="text-align: center;"><a href="https://ios.cfw.guide/installing-trollstore/">TrollStore</a></td>
       <td style="text-align: center;">-</td>
     </tr>
     <tr>
