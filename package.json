@@ -2,8 +2,8 @@
     "name": "jermification.github.io",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "github.com//jermification/jermification.github.io/",
-    "author": "jermified <jermifiable@gmail.com>",
+    "repository": "github.com/jermification/jermification.github.io/",
+    "author": "jermified",
     "license": "MIT",
     "devDependencies": {
         "@vuepress/plugin-register-components": "2.0.0-beta.49",
