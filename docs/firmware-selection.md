@@ -32,21 +32,21 @@ Select the appropriate page for your version from the chart below. Note that the
   <tbody>
     <tr>
       <td style="text-align: center; font-weight: bold;">12.0</td>
-      <td style="text-align: center; font-weight: bold;">13.7</td>
+      <td style="text-align: center; font-weight: bold;">14.0b1</td>
       <td style="text-align: center;"><router-link to="/installing-appsync">AppSync</router-link></td>
       <td style="text-align: center;"><router-link to="/sideloading-certs">Certificates (7-20$)</router-link</td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">14.0b1</td>
+      <td style="text-align: center; font-weight: bold;">14.0b2</td>
       <td style="text-align: center; font-weight: bold;">16.6.1/17.0</td>
       <td style="text-align: center;"><a href="https://ios.cfw.guide/installing-trollstore/">TrollStore</a></td>
       <td style="text-align: center;">-</td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">15.0</td>
-      <td style="text-align: center; font-weight: bold;">15.5 beta 4</td>
-      <td style="text-align: center;"><router-link to="/installing-trollstore-trollhelperota">TrollHelperOTA</router-link></td>
-      <td style="text-align: center;">-</td>
+      <td style="text-align: center; font-weight: bold;">16.7</td>
+      <td style="text-align: center; font-weight: bold;">16.7.10/17.0.1+</td>
+      <td style="text-align: center;"><router-link to="/installing-scarlet">Scarlet</router-link></td>
+      <td style="text-align: center;"><router-link to="/sideloading-certs">Certificates (7-20$)</router-link></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">15.5</td>
