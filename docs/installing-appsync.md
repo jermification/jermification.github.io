@@ -20,7 +20,7 @@ On iOS versions 12.0 to 14.0b1, AppSync is one of the easiest ways to sideload, 
 1. After you are jailbroken, Click on [this link](https://cydia.akemi.ai/add.php) to add the repo to your Package Manager.
 2. Open your package manager. (Sileo, Zebra, Cydia)
 3. Refresh your packages, update all if prompted.
-4. Add " http://tigisoftware.com/repo/" to your repo list.
+4. Add "[this](http://tigisoftware.com/repo/" to your repo list.
 4. Install "AppSync Unified" and "Filza" from the list of packages. If you cannot find it, use the search bar.
 
 ## Using AppSync
