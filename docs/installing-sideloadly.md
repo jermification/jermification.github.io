@@ -27,7 +27,7 @@ Sideloadly is compatible with iOS 7 and newer.
 
 :::
 1. Download the latest versions [Sideloadly](https://sideloadly.io/#download), [iTunes](https://www.apple.com/itunes/download/win32) if on Windows, and [iCloud](https://secure-appldnld.apple.com/windows/061-91601-20200323-974a39d0-41fc-4761-b571-318b7d9205ed/iCloudSetup.exe) if on Windows
-1. Restart your Computer. (If on Windows)
+1. Restart your computer. (If on Windows)
 1. Open Sideloadly
 1. Plug your iOS device into your computer
     - Make sure your computer is trusted and allowed to view the contents of your device
