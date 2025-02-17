@@ -27,3 +27,16 @@ If you are using an iOS 16+ Device, you will need to take extra steps beforehand
   - If you have a passcode enabled, you'll need to enter it.
 
 :::
+
+
+## Installing Scarlet
+
+
+1. Go to [Scarlet](https://usescarlet.com/#install) 
+2. If it says "Revoked", you will not be able to finish this guide. If it says "Signed," continue the steps.
+3. Click Install > Direct Install
+4. It should prompt you with "xx.com wants to install Scarlet" 
+5. Press install.
+6. After Scarlet is downloaded, if you havent already, download the IPA you want to install.
+7. Press the Download button on the bottom middle, and Click the + button to add the IPA you want to install.
+8. This should install your app properly, if it doesn't, refer to [Troubleshooting](https://jermification.github.io/troubleshooting/)
